@@ -86,4 +86,4 @@ Contributions to the payment initiation API are welcome! If you find a bug or wo
 
 ## License
 
-This payment initiation API is licensed under the MIT License. See the `LICENSE` file for details.
+This payment initiation API is licensed under the GNU General Public License v3.0. See the `LICENSE` file for details.
